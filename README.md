@@ -296,9 +296,6 @@ Set a minimum profit threshold to avoid executing trades with very small profits
 - Large trades may have higher slippage requirements
 - The bot includes automatic retry logic for failed transactions
 
-## 🏗️ Building Executables from Source
-
-If you want to build the executables yourself, see [BUILD.md](BUILD.md) for detailed instructions.
 
 ## 📄 License
 
