@@ -316,7 +316,7 @@ The 15% fee is non-negotiable and embedded in the bot. Make sure you understand 
 
 ## 🆘 Support
 
-For issues, questions, or contributions, please refer to the project repository or contact the maintainers.
+For issues, questions, or contributions, please refer to the project repository or contact us on discord.
 
 ---
 
